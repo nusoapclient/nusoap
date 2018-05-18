@@ -1,7 +1,7 @@
 {
     "name": "nusoapclient/nusoap",
     "description": "NuSOAP re-packaged for Packagist/Composer",
-    "license": "LGPLv2",
+    "license": "OPL-1.0",
     "authors": [
         {
             "name": "Dietrich Ayala",
