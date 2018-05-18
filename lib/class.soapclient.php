@@ -80,6 +80,11 @@ class nusoap_client extends nusoap_base  {
 	 * @access   public
 	 */
 	var $faultdetail;
+	/**
+  	 * @var      operation
+  	 * @access   public
+  	 */
+ 	var $operation;
 
 	/**
 	* constructor
